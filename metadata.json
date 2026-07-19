@@ -1,0 +1,6 @@
+{
+  "name": "Giggz",
+  "description": "Smart job marketplace and community trading platform connecting workers and employers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
